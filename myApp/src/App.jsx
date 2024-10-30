@@ -1,7 +1,12 @@
 import "./App.css";
 
 function App() {
-  return <>Learning to deploy a project to gitHub pages</>;
+  return (
+    <>
+      <p>Learning to deploy a project to gitHub pages</p>
+      <p>Stay tuned ...</p>
+    </>
+  );
 }
 
 export default App;
